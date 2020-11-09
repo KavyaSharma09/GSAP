@@ -67,9 +67,9 @@ section{
 }
 .red{
     position: relative;
-    left: 16%;
+    left: 15%;
     transform: translateX(-50%);
-    top: 9.5%;
+    top: 9%;
     overflow:visible;
 }
 
